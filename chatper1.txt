@@ -1,0 +1,2 @@
+This is process of adding the files in github. 
+firstly created new repository then clicked on file and created new file name chapter1.txt 
